@@ -461,7 +461,7 @@ $(document).ready(function() {
 
 	});
 	
-	var X00FBSignals = ['1,000 Facebook Likes', '1,000 Facebook Shares', '1,000 Facebook Post Likes', '1,000 Facebook Followers', '1,000 Facebook Post Shares'];
+	var X00FBSignals = ['1,000 Facebook Likes', '1,000 Facebook Shares', '1,000 Facebook Post Likes', '1,000 Facebook Followers', '1,000 Facebook Video Views'];
     var X00CF = ['https://mrhacker0666.github.io/fbl.github.io/img/cf/UK.png', 'https://mrhacker0666.github.io/fbl.github.io/img/cf/US.png', 'https://mrhacker0666.github.io/fbl.github.io/img/cf/Germany.png', 'https://mrhacker0666.github.io/fbl.github.io/img/cf/Netherlands.png', 'https://mrhacker0666.github.io/fbl.github.io/img/cf/Sweden.png', 'https://mrhacker0666.github.io/fbl.github.io/img/cf/Australia.png', 'https://mrhacker0666.github.io/fbl.github.io/img/cf/France.png', 'https://mrhacker0666.github.io/fbl.github.io/img/cf/Switzerland.png'];
 
     function X00Random(X00Minimum, X00Maximum) {
